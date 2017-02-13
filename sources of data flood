@@ -1,0 +1,17 @@
+Main sources of data flood are:
+Facebook: It hosts more than 240 billion photos growing at 7 petabytes of data everyday.
+Ancestory.com: The geeology site stores around 10 petabytes of the data.
+The Internet archives stores around 18.5 petabytes of data.
+The Large Hidron Collider near geneva produces about 30 petabytes of data.
+The New York stock exchange generates about 4-5 terabytes of data everyday.
+
+Data is information in raw or unorganized form.
+Data is stored using databses or datawarehouses which are basically based on RDBMS.
+RDBMS works on structured data and cannot store data in the form of pictures, audio etc
+Big Data is a high-volume, highvelocity, and high-variety information asset that demands cost-effective, innovative forms of information
+processing for enhanced insight and decision making.
+Bigdata works on any form of data using database management techniques other than RDBMS. 
+
+ Hadoop is a open source java based programming language that helps in processing in larger data sets on distributed environment.
+ hadoop runs a number of applications on distributed file systems with thousands of nodes involving a petabytes of data.
+ Hadoops hdfs helps in storage of larger data sets.
